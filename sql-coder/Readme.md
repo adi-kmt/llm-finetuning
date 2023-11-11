@@ -1,4 +1,4 @@
-# Math Reasoning Finetuning
+# SQL Coder
 
 Finetuned an SQL coder model on SQL dataset [this link](https://huggingface.co/datasets/b-mc2/sql-create-context).
 
